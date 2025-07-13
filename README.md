@@ -1,9 +1,16 @@
-# Land Measurement Automation 🗺️
+# Land Measurement Automation v.1 (11 - 7 - 2025)
 
+## Introduce 
+Hi! my name is Dimas S.P, i'm from indonesian and welcome to my first project on github!. 
+I'm currently a grade 11 student at vocational high school majoring in Modeling Design and Building Information.
+I began learning python about 3 weeks ago.
+I combined my knowledge about python with what i learned at school back in grade 10, for example Land measurement.
+So, i created this Land Measurement Automation program.
+
+## PURPOSE
 This project automates the process of calculating elevation differences and status (RISE/FALL) between survey points using Python.
 
 ## Features
-
 - Mid thread validation (top, mid, bottom input)
 - Calculate elevation & height difference automation
 - Distance input between points
@@ -12,7 +19,6 @@ This project automates the process of calculating elevation differences and stat
 - Neatly formatted table output in terminal
 
 ## How It Works
-
 1. User enters number of points and initial AMSL elevation.
 2. For each point pair:
    - Input backsight and foresight using thread readings
@@ -21,12 +27,3 @@ This project automates the process of calculating elevation differences and stat
    - Status is shown (RISE/FALL)
 3. Final result can be exported to Excel
 
-## Requirements
-
-- Python 3.x
-- pandas library
-- tabulate library
-
-Install via:
-```bash
-pip install pandas tabulate
