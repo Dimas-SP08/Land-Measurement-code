@@ -2,9 +2,6 @@
 *by Dimas S.P*  
 (Vocational High School Student – Modeling Design & Building Information)
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ## Introduction
