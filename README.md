@@ -1,29 +1,32 @@
-# Land Measurement Automation v.1 (11 - 7 - 2025)
+# Land Measurement Automation  
+*by Dimas S.P*  
+(Vocational High School Student – Modeling Design & Building Information)
 
-## Introduce 
-Hi! my name is Dimas S.P, i'm from indonesian and welcome to my first project on github!. 
-I'm currently a grade 11 student at vocational high school majoring in Modeling Design and Building Information.
-I began learning python about 3 weeks ago.
-I combined my knowledge about python with what i learned at school back in grade 10, for example Land measurement.
-So, i created this Land Measurement Automation program.
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-## PURPOSE
-This project automates the process of calculating elevation differences and status (RISE/FALL) between survey points using Python.
+---
+
+## Introduction
+
+Automated land measurement tool combining Python programming with vocational surveying knowledge.  
+Created to simplify elevation calculation and land surveying tasks.
+
+---
 
 ## Features
-- Mid thread validation (top, mid, bottom input)
-- Calculate elevation & height difference automation
-- Distance input between points
-- Automatic status check (RISE or FALL)
-- Export result to Excel .xlsx format
-- Neatly formatted table output in terminal
 
-## How It Works
-1. User enters number of points and initial AMSL elevation.
-2. For each point pair:
-   - Input backsight and foresight using thread readings
-   - Mid-thread is validated automatically
-   - Elevation difference is calculated
-   - Status is shown (RISE/FALL)
-3. Final result can be exported to Excel
+- Elevation difference calculation (RISE/FALL)  
+- Mid-thread validation  
+- Export results to Excel (.xlsx)  
 
+---
+
+## Versions
+
+| Version | Highlights                                                        | Docs                                   | Script Path                                   |
+| ------- | ----------------------------------------------------------------- | -------------------------------------- | ---------------------------------------------- |
+| **v1.0**  | Basic elevation & status (RISE/FALL) + Excel export               | [v1/README.md](./v1/README.md)         | [`v1/Land_Measurement_v1.py`](./v1/Land_Measurement_v1.py) |
+| **v2.0**  | Added elevation graphs (profile, bar chart, scatter plot) & code efficiency | [v2/README.md](./v2/README.md)         | [`v2/Land_Measurement_v2.py`](./v2/Land_Measurement_v2.py) |
+
+---
