@@ -93,7 +93,7 @@ Auto-generated graphs:
 
 ---  
 
-### Safety & Verification
+## Safety & Verification
 
 This app was scanned with VirusTotal:
 [VirusTotal Scan Result](https://www.virustotal.com/gui/file/8f3e0b6433442ebce66abc0bc67d497a328c759dc208befc40a443746657a4ed/detection)
