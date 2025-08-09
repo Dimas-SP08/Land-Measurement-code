@@ -43,13 +43,13 @@ Created to simplify elevation calculation and land surveying tasks.
 - Real time calculation and visual graph display
 - Export results to Excel, CSV, and PNG
 
-[See the complete explanation and screenshot at](./v4/README.md#how-it-works)
+[See the complete explanation and screenshot](./v4/README.md#how-it-works)
 
 ---
 
 ## Download App and Security App (GUI v4.0)
 
-[See the explanation and link at](./v4/README.md#Download-App)
+[See the explanation and link](./v4/README.md#Download-App)
 
 
 
