@@ -1,5 +1,25 @@
 # Changelog
 
+## [v4.0] – 2025-08-08
+
+### Added
+- Full GUI interface using **PyQt5**
+- Multi-page navigation: Welcome → Input → Thread → Table → Graph → Export
+- Dynamic graph rendering (Elevation Profile, Height Difference, Scatter Plot)
+- Export options:
+  - Save graphs as PNG
+  - Export data to CSV
+  - Export to Excel with embedded graphs
+- `.exe` build for standalone distribution
+- Modular UI components (`ui/pages`) and controller logic (`core`)
+- Integrated `QStackedWidget` for seamless page transitions
+
+### Changed
+- Simplified and clarified docstrings across all modules
+- Reorganized project structure for GUI version (`core`, `ui`, `utils`)
+- Improved input validation and error handling in GUI
+- Replaced CLI prompts with interactive widgets and buttons
+
 ---
 
 ## [v3.0] – 2025-07-24
